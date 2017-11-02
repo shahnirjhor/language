@@ -1,14 +1,15 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
+ * System messages translation for CodeIgniter(tm).
  *
  * @author	CodeIgniter community
  * @author	Stefano Mazzega
  * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
+ *
  * @link	http://codeigniter.com
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 $lang['ftp_no_connection'] = 'Impossibile trovare ID di connessione valido. Assicurarsi di essere connessi prima di eseguire una qualsiasi file routine.';
 $lang['ftp_unable_to_connect'] = 'Impossibile connettersi al server FTP utilizzando l\'hostname indicato.';

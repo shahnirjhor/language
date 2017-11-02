@@ -1,13 +1,14 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
+ * System messages translation for CodeIgniter(tm).
  *
  * @author	CodeIgniter community
  * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
+ *
  * @link	http://codeigniter.com
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 $lang['ftp_no_connection'] = '正しい接続IDが見つかりません。ファイル処理を行う前にまず接続されているか確かめてください';
 $lang['ftp_unable_to_connect'] = '指定したホスト名でFTPサーバに接続できません';
