@@ -1,14 +1,15 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
+ * System messages translation for CodeIgniter(tm).
  *
  * @author	CodeIgniter community
  * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
+ *
  * @link	http://codeigniter.com
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
-$lang['is_exist']			= "এই <b>%s</b> 不存在"; // User-defind (Created by Alamin)
+defined('BASEPATH') or exit('No direct script access allowed');
+$lang['is_exist'] = 'এই <b>%s</b> 不存在'; // User-defind (Created by Alamin)
 $lang['required'] = '要求含有 <b>%s</b> 字段。';
 $lang['isset'] = '<b>%s</b> 字段必须有值。';
 $lang['valid_email'] = '<b>%s</b> 字段必须是一个有效的 E-mail 地址。';
@@ -37,4 +38,4 @@ $lang['less_than_equal_to'] = '<b>%s</b> 字段的值必须小于等于 <b>%s</b
 $lang['greater_than'] = '<b>%s</b> 字段的值必须大于 <b>%s</b>。';
 $lang['greater_than_equal_to'] = '<b>%s</b> 字段的值必须大于等于 <b>%s</b>。';
 $lang['error_message_not_set'] = '无法获得 <b>%s</b> 字段的错误信息。';
-$lang['in_list'] = '<b>%s</b> 字段必须是 <b>%s</b> 中的一种。'; 
+$lang['in_list'] = '<b>%s</b> 字段必须是 <b>%s</b> 中的一种。';

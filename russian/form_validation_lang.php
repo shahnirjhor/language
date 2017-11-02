@@ -1,14 +1,15 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
+ * System messages translation for CodeIgniter(tm).
  *
  * @author	CodeIgniter community
  * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
+ *
  * @link	http://codeigniter.com
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
-$lang['is_exist']			= "এই <b>%s</b> не существует"; // User-defind (Created by Alamin)
+defined('BASEPATH') or exit('No direct script access allowed');
+$lang['is_exist'] = 'এই <b>%s</b> не существует'; // User-defind (Created by Alamin)
 $lang['required'] = 'Поле <b>%s</b> обязательно.';
 $lang['isset'] = 'Поле <b>%s</b> должно быть заполнено.';
 $lang['valid_email'] = 'Поле <b>%s</b> должно содержать правильный E-mail адрес.';

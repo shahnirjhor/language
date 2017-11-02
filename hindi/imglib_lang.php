@@ -1,13 +1,14 @@
 <?php
 /**
-* System messages translation for CodeIgniter(tm)
-*
-* @author	CodeIgniter community
-* @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
-* @license	http://opensource.org/licenses/MIT MIT License
-* @link	http://codeigniter.com
-*/
-defined('BASEPATH') OR exit('No direct script access allowed');
+ * System messages translation for CodeIgniter(tm).
+ *
+ * @author	CodeIgniter community
+ * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	http://opensource.org/licenses/MIT MIT License
+ *
+ * @link	http://codeigniter.com
+ */
+defined('BASEPATH') or exit('No direct script access allowed');
 
 $lang['imglib_source_image_required'] = 'आप अपनी वरीयताओं में एक स्रोत छवि निर्दिष्ट करना होगा।';
 $lang['imglib_gd_required'] = 'जी.डी. छवि पुस्तकालय इस सुविधा के लिए आवश्यक है।';

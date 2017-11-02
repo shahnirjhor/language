@@ -1,13 +1,14 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
+ * System messages translation for CodeIgniter(tm).
  *
  * @author	CodeIgniter community
  * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
+ *
  * @link	http://codeigniter.com
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 $lang['ftp_no_connection'] = '无法找到一个有效的连接 ID。在执行任何文件例程时请确保已经连接成功。';
 $lang['ftp_unable_to_connect'] = '无法使用提供的主机名连接到 FTP 服务器。';

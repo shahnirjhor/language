@@ -1,15 +1,16 @@
 <?php
 /**
- * System messages translation for CodeIgniter(tm)
+ * System messages translation for CodeIgniter(tm).
  *
  * @author	CodeIgniter community
  * @author	Stefano Mazzega
  * @copyright	Copyright (c) 2014 - 2016, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
+ *
  * @link	http://codeigniter.com
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
-$lang['is_exist']			= "এই <b>%s</b> non esiste"; // User-defind (Created by Alamin)
+defined('BASEPATH') or exit('No direct script access allowed');
+$lang['is_exist'] = 'এই <b>%s</b> non esiste'; // User-defind (Created by Alamin)
 $lang['required'] = 'Il campo <b>%s</b> è necessario.';
 $lang['isset'] = 'Il campo <b>%s</b> deve avere un valore.';
 $lang['valid_email'] = 'Il campo <b>%s</b> deve contenere un indirizzo email valido.';
@@ -37,5 +38,5 @@ $lang['less_than'] = 'Il campo <b>%s</b> deve contenere un numero inferiore a <b
 $lang['less_than_equal_to'] = 'Il campo <b>%s</b> deve contenere un numero inferiore o uguale a <b>%s</b>.';
 $lang['greater_than'] = 'Il campo <b>%s</b> deve contenere un numero maggiore di <b>%s</b>.';
 $lang['greater_than_equal_to'] = 'Il campo <b>%s</b> deve contenere un numero maggiore o uguale a <b>%s</b>.';
-$lang['error_message_not_set']  = 'Non è stato possibile trovare il messaggio di errore relativo al campo <b>%s</b>';
-$lang['in_list']		= 'Il campo <b>%s</b> può contenere solo uno dei seguenti valori: <b>%s</b>.';
+$lang['error_message_not_set'] = 'Non è stato possibile trovare il messaggio di errore relativo al campo <b>%s</b>';
+$lang['in_list'] = 'Il campo <b>%s</b> può contenere solo uno dei seguenti valori: <b>%s</b>.';
